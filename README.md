@@ -4,12 +4,6 @@
 **Lab:** Configuring a VPN Server with pfSense (Jones & Bartlett *Ethical Hacking, 4e*)
 **Author:** James O'Leary
 
-> **Authorized classroom simulation.** Everything here was configured inside an isolated,
-> instructor-provided VMware lab on a private segment. The pfSense firewall, the
-> certificate authority, and the `remoteworker01` account are lab fixtures. No production
-> VPN, certificate, or credential is involved. The point of the exercise is the chain of
-> trust and traffic protection that a remote-access VPN actually rests on.
-
 ---
 
 ## What this lab covers
